@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    I am a software engineer with expertise in full-stack development, distributed systems, and automation solutions. Currently pursuing my Master's in Computer Science at USC, I have over 3 years of professional experience building impactful, scalable software products. My passion lies in solving real-world challenges through efficient backend services, microservices architecture, and frontend solutions, ensuring performance and user experience. Let's connect to explore how we can collaborate on exciting engineering problems!
+    I'm a software engineer specializing in full-stack development, distributed systems, and automation solutions. Armed with a Master's in Computer Science from USC and 3+ years of professional experience, I architect scalable software that solves real-world challenges. From robust backend services to intuitive frontends, I build high-performance systems that deliver exceptional user experiences. Let's connect and tackle exciting engineering problems together!
   </samp>
 </p>
 
